@@ -8,7 +8,6 @@ __pycache__/
 *.log
 tags
 node_modules
-.vscode
 
 # Distribution / packaging
 .Python
@@ -41,3 +40,7 @@ helpdesk/public/node_modules
 helpdesk/www/helpdesk/index.html
 desk/components.d.ts
 desk/stats.html
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
